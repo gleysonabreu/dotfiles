@@ -31,3 +31,6 @@ asdf global nodejs latest
 
 # Install pnpm package manager for node
 npm install -g pnpm@latest-10
+
+# Remove installation files
+cd ~ && rm -rf main.zip && rm -rf dotfiles
